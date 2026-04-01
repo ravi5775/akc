@@ -1,0 +1,330 @@
+{
+  "generatedAt": "2026-04-01T17:43:03.301Z",
+  "baseUrl": "http://localhost:8080",
+  "success": [
+    {
+      "path": "/auth",
+      "file": "login-page.png",
+      "stage": "pre-auth"
+    },
+    {
+      "path": "/forgot-password",
+      "file": "forgot-password.png",
+      "stage": "pre-auth"
+    },
+    {
+      "path": "/reset-password",
+      "file": "reset-password.png",
+      "stage": "pre-auth"
+    },
+    {
+      "path": "/energy/login",
+      "file": "energy-portal-login.png",
+      "stage": "pre-auth"
+    },
+    {
+      "path": "/water/login",
+      "file": "water-portal-login.png",
+      "stage": "pre-auth"
+    },
+    {
+      "path": "/",
+      "file": "dashboard-admin.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/",
+      "file": "sidebar-navigation.png",
+      "action": "sidebar",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/",
+      "file": "header-bar.png",
+      "action": "header",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/",
+      "file": "notification-bell-dropdown.png",
+      "action": "notification",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/bookings",
+      "file": "bookings-list.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/bookings/new",
+      "file": "bookings-new.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/approvals/pending",
+      "file": "approvals-pending.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/approvals/approved",
+      "file": "approvals-approved.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/approvals/rejected",
+      "file": "approvals-rejected.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources",
+      "file": "resources-overview.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/room-availability",
+      "file": "resources-rooms.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/venues",
+      "file": "resources-venues.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/equipment",
+      "file": "resources-equipment.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/maintenance",
+      "file": "resources-maintenance.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/analytics",
+      "file": "resources-analytics.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/resources/settings",
+      "file": "resources-settings.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy",
+      "file": "energy-overview.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/realtime",
+      "file": "energy-realtime.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/meters",
+      "file": "energy-meters.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/map",
+      "file": "energy-map.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/blocks",
+      "file": "energy-blocks.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/trends",
+      "file": "energy-trends.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/data-entry",
+      "file": "energy-data-entry.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/waste",
+      "file": "energy-waste.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/forecast",
+      "file": "energy-forecast.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/analysis",
+      "file": "energy-analysis.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/reports",
+      "file": "energy-reports.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/anomalies",
+      "file": "energy-anomalies.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/recommendations",
+      "file": "energy-recommendations.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/master-data",
+      "file": "energy-master-data.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/energy/settings",
+      "file": "energy-settings.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water",
+      "file": "water-dashboard.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water/locations",
+      "file": "water-locations.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water/alerts",
+      "file": "water-alerts.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water/analysis",
+      "file": "water-analysis.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water/readings",
+      "file": "water-readings.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/water/settings",
+      "file": "water-settings.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr",
+      "file": "hr-overview.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr/staff",
+      "file": "hr-staff-master.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr/stress",
+      "file": "hr-stress-burnout.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr/approvals",
+      "file": "hr-approvals.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr/audit",
+      "file": "hr-audit-logs.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/hr/settings",
+      "file": "hr-settings.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/schedule",
+      "file": "schedule-calendar.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/training",
+      "file": "training-page.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/feedback",
+      "file": "feedback-form.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/notifications",
+      "file": "notifications-list.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/profile",
+      "file": "settings-profile.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/security",
+      "file": "settings-security.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/users",
+      "file": "settings-users.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/metadata",
+      "file": "settings-metadata.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/email",
+      "file": "settings-email.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/notifications",
+      "file": "settings-notifications.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/settings/appearance",
+      "file": "settings-appearance.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/search",
+      "file": "search-results.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/admin/logs",
+      "file": "system-logs.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/admin/audit",
+      "file": "audit-trail.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/admin/backup",
+      "file": "admin-backup.png",
+      "stage": "post-auth"
+    },
+    {
+      "path": "/admin/reset-password",
+      "file": "admin-reset-password.png",
+      "stage": "post-auth"
+    }
+  ],
+  "failed": []
+}
